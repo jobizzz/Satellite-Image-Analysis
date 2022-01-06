@@ -1,0 +1,3 @@
+Land Cover Change Analysis and Prediction Using Deep Learning 
+
+Developed a fast and accurate deep learning method (LSTM) to predict the land cover change in the Sundarbans region using Landsat Satellite images. Normalised Difference Vegetation Index (NDVI) and NDVI change was calculated from the images. The results showed that the suggested technique is effective at predicting land cover change with a good accuracy. By following the technique outlined in the study, it is possible to properly predict vegetation changes and take pre-emptive efforts to protect and improve the vegetation in any region
